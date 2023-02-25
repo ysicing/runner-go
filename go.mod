@@ -14,7 +14,8 @@ require (
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/natessilva/dag v0.0.0-20180124060714-7194b8dcc5c4
 	github.com/sirupsen/logrus v1.4.2
-	golang.org/x/crypto v0.0.0-20190621222207-cc06ce4a13d4
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
-
